@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Dipak Ghosh</h1>
-<h3> align="center"An aspiring Web Developer from Amity University, Kolkata</h3>
+<h3 align="center">An aspiring Web Developer from Amity University, Kolkata</h3>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DGreat49251&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <hr>
