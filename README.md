@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I am Dipak Ghosh
+An aspiring Web Developer from Amity University, Kolkata
 <!--
 **DGreat49251/DGreat49251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
