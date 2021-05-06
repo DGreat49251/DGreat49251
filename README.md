@@ -1,9 +1,9 @@
-### Hi there 👋 I am Dipak Ghosh
-An aspiring Web Developer from Amity University, Kolkata
+<h1 align="center"> Hi there 👋 I am Dipak Ghosh<h1>
+<h3> align="center"An aspiring Web Developer from Amity University, Kolkata</h3>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DGreat49251&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <hr>
-
+ <h3>Anout me:-</h3>
 - 🔭 Intern at CodeSpeedy Technologies Pvt. Ltd as a Python Programmer. 
 - 🌱 I’m currently looking forward to learn Back-End Development.
 - 💬 Ask me about ... Life, Career and Programming in C, C++, Java & Python
@@ -25,7 +25,7 @@ An aspiring Web Developer from Amity University, Kolkata
             width="40" /></i></i></a>  
  </p>
  <hr>
- <h3>Visit my Personal Website <a href="https://dgreat49251.github.io/dipak.ghosh/">here</a>.</h3>
+ <h3 align="center">Visit my Personal Website <a href="https://dgreat49251.github.io/dipak.ghosh/">here</a>.</h3>
  <hr>
  <h3>Programming Languages and Skills:-</h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img
