@@ -1,8 +1,10 @@
 ### Hi there 👋 I am Dipak Ghosh
 An aspiring Web Developer from Amity University, Kolkata
-
+###
+###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DGreat49251&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-
+###
+###
 Here are some ideas to get you started:
 
 - 🔭 Intern at CodeSpeedy Technologies Pvt. Ltd as a Python Programmer. 
@@ -24,6 +26,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DGreat49251"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="facebook" height="30"
             width="40" /></i></i></a>  
+ 
 - Languages and Skills:
 <a href="https://www.cprogramming.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -43,10 +46,10 @@ Here are some ideas to get you started:
  <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
- ## 
+ ###
 
 [![Dipak Ghosh's github
 stats](https://github-readme-stats.vercel.app/api?username=DGreat49251&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-##
+###
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGreat49251&langs_count=20&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
