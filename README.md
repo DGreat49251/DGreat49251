@@ -48,5 +48,6 @@ Here are some ideas to get you started:
 
 [![Dipak Ghosh's github
 stats](https://github-readme-stats.vercel.app/api?username=DGreat49251&count_private=true&theme=highcontrast&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGreat49251&langs_count=20&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
