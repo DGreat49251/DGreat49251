@@ -3,12 +3,14 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DGreat49251&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <hr>
- <h3>Anout me:-</h3>
+<h3>Anout me:-</h3>
+ 
 - 🔭 Intern at CodeSpeedy Technologies Pvt. Ltd as a Python Programmer. 
 - 🌱 I’m currently looking forward to learn Back-End Development.
 - 💬 Ask me about ... Life, Career and Programming in C, C++, Java & Python
-- 📫 How to reach me: 
-<p align="left">
+- 📫 How to reach me:-
+
+<p align="center">
  <a href="https://www.facebook.com/dg15.dgreat49251/about"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
             width="40" /></i></a>
@@ -28,6 +30,7 @@
  <h3 align="center">Visit my Personal Website <a href="https://dgreat49251.github.io/dipak.ghosh/">here</a>.</h3>
  <hr>
  <h3>Programming Languages and Skills:-</h3>
+<p align="center">
 <a href="https://www.cprogramming.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
@@ -46,6 +49,7 @@
  <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
+ </p>
  <hr>
 <h3>My GitHub Stats:-</h3>
 
