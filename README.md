@@ -3,7 +3,7 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DGreat49251&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <hr>
-<h3>Anout me:-</h3>
+<h3>About me:-</h3>
  
 - 🔭 Intern at CodeSpeedy Technologies Pvt. Ltd as a Python Programmer. 
 - 🌱 I’m currently looking forward to learn Back-End Development.
