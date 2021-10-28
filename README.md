@@ -6,8 +6,9 @@
 <h3>About me:-</h3>
  
 - 🔭 Intern at CodeSpeedy Technologies Pvt. Ltd as a Python Programmer. 
+- 🔭 Competitive Programming Lead at Codechef AUK Chapter.
 - 🌱 I’m currently looking forward to learn Back-End Development.
-- 💬 Ask me about ... Life, Career and Programming in C, C++, Java & Python
+- 💬 Ask me about ... Life, Career and Programming in C, C++, Java & Python.
 - 📫 How to reach me:-
 
 <p align="center">
@@ -27,7 +28,7 @@
             width="40" /></i></i></a>  
  </p>
  <hr>
- <h3 align="center">Visit my Personal Website <a href="https://dgreat49251.github.io/dipak.ghosh/">here</a>.</h3>
+ <h3 align="center">Visit my Personal Website <a href="https://dgreat49251.github.io/dipak-ghosh/">here</a>.</h3>
  <hr>
  <h3>Programming Languages and Skills:-</h3>
 <p align="center">
