@@ -6,8 +6,10 @@
 <h3>About me:-</h3>
  
 - 🔭 Intern at CodeSpeedy Technologies Pvt. Ltd as a Python Programmer. 
+- 🔭 Intern at System and Methods Inc. as a Web Developer. 
 - 🔭 Competitive Programming Lead at Codechef AUK Chapter.
-- 🌱 I’m currently looking forward to learn Back-End Development.
+- 🌱 I’m currently looking forward to grow as a Software Developer.
+- 🌱 I’m currently looking forward to explore Research and Analytics.
 - 💬 Ask me about ... Life, Career and Programming in C, C++, Java & Python.
 - 📫 How to reach me:-
 
@@ -32,6 +34,9 @@
  <hr>
  <h3>Programming Languages and Skills:-</h3>
 <p align="center">
+ <a href="https://getbootstrap.com" target="_blank"> <img 
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" 
+            height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
@@ -50,6 +55,18 @@
  <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
+ <a href="https://expressjs.com" target="_blank"> <img 
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" 
+            height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" 
+            height="40"/> </a>4
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+ <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  </p>
  <hr>
 <h3>My GitHub Stats:-</h3>
