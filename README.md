@@ -7,6 +7,7 @@
  
 - 🔭 Intern at CodeSpeedy Technologies Pvt. Ltd as a Python Programmer. 
 - 🔭 Intern at System and Methods Inc. as a Web Developer. 
+- 🔭 Currently Intern at Johnson Controls india as a Graduate Intern.
 - 🔭 Competitive Programming Lead at Codechef AUK Chapter.
 - 🌱 I’m currently looking forward to grow as a Software Developer.
 - 🌱 I’m currently looking forward to explore Research and Analytics.
@@ -60,10 +61,12 @@
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  </p>
  <hr>
+
+ 
 <h3>My GitHub Stats:-</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=350 height=400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGreat49251&langs_count=20&theme=react&layout=compact&custom_title=Most used languages on GitHub" alt="Shows my Most Used Languages"/>
-    </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width=350 height=400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGreat49251&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" alt="Shows my Most Used Languages"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="right" width=400 height=400 src="https://github-readme-stats.vercel.app/api?username=DGreat49251&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
  </a>
