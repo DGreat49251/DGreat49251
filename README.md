@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋 I am Dipak Ghosh</h1>
-<h3 align="center">An aspiring Software Developer from Amity University, Kolkata</h3>
+<h1 align="center"> Hello there 👋 I am Dipak Ghosh</h1>
+<h3 align="center">An aspiring Software Developer from Amity University, Kolkata passionate about exploring various new-age tech stacks and developing user-friendly and highly efficient software solutions...</h3>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DGreat49251&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <hr>
@@ -7,11 +7,14 @@
  
 - 🔭 Intern at CodeSpeedy Technologies Pvt. Ltd as a Python Programmer. 
 - 🔭 Intern at System and Methods Inc. as a Web Developer. 
-- 🔭 Currently Intern at Johnson Controls india as a Graduate Intern.
+- 🔭 Intern at Johnson Controls India as a Digital Solutions Developer.
+- 🔭 Graduate Engineer at Johnson Controls India
+- 🔭 Developer 1 at Johnson Controls India
+- 🔭 Analyst Developer at FNZ
 - 🔭 Competitive Programming Lead at Codechef AUK Chapter.
 - 🌱 I’m currently looking forward to grow as a Software Developer.
-- 🌱 I’m currently looking forward to explore Research and Analytics.
-- 💬 Ask me about ... Life, Career and Programming in C, C++, Java & Python.
+- 🌱 I’m currently looking forward to explore Generative AI Research and Data Analytics.
+- 💬 Ask me about ... Life, Career and Tech.
 - 📫 How to reach me:-
 
  [E-mail](mailto:dipakghosh_professional@outlook.com) | [LinkedIn](https://www.linkedin.com/in/dipak-ghosh-3b9409203) | [Facebook](https://www.facebook.com/dg15.dgreat49251/about) | [Instagram](https://www.instagram.com/dipakghosh49251/) | [GitHub](https://github.com/DGreat49251)
